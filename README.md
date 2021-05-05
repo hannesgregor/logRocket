@@ -11,4 +11,4 @@ docker exec backend /bin/sh start.sh
 ```
 The API is ready to be consumed on `http://localhost:8000`
 
-User register committ
+User register committt
